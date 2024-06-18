@@ -1,0 +1,87 @@
+g g g 
+c x c 
+m g m 
+==============================
+x x k 
+m x k 
+g m m 
+==============================
+Mario is starting in position: (1,1)
+=============================
+g g w 
+b H c 
+m g m 
+==============================
+Level: 0. Mario is at position: (1,1). Mario is at power level 0.
+The position is empty. Mario has 2 lives left. Mario has 0 coins.
+Mario will move down
+=============================
+g g w 
+b x c 
+m H m 
+==============================
+Level: 0. Mario is at position: (2,1). Mario is at power level 0.
+Mario encountered a goomba and won. Mario has 2 lives left. Mario has 0 coins.
+Mario will move left
+=============================
+g g w 
+b x c 
+H x m 
+==============================
+Level: 0. Mario is at position: (2,0). Mario is at power level 0.
+Mario picks up a mushroom. Mario has 2 lives left. Mario has 0 coins.
+Mario will move right
+=============================
+g g w 
+b x c 
+x H m 
+==============================
+Level: 0. Mario is at position: (2,1). Mario is at power level 1.
+The position is empty. Mario has 2 lives left. Mario has 0 coins.
+Mario will move right
+=============================
+g g w 
+b x c 
+x x H 
+==============================
+Level: 0. Mario is at position: (2,2). Mario is at power level 1.
+Mario picks up a mushroom. Mario has 2 lives left. Mario has 0 coins.
+Mario will move down
+=============================
+g g H 
+b x c 
+x x x 
+==============================
+Level: 0. Mario is at position: (0,2). Mario is at power level 2.
+Mario found a warp pipe. Current level: 1
+Mario has 2 lives left. Mario has 0 coins.
+Mario will move up
+=============================
+b x k 
+m H k 
+g m m 
+==============================
+Level: 1. Mario is at position: (1,1). Mario is at power level 2.
+The position is empty. Mario has 2 lives left. Mario has 0 coins.
+Mario will move up
+=============================
+b H k 
+m x k 
+g m m 
+==============================
+Level: 1. Mario is at position: (0,1). Mario is at power level 2.
+The position is empty. Mario has 2 lives left. Mario has 0 coins.
+Mario will move left
+=============================
+H x k 
+m x k 
+g m m 
+==============================
+Level: 1. Mario is at position: (0,0). Mario is at power level 2.
+Mario has encountered the level boss and lost.
+Mario will stay put and try again
+Mario has encountered the level boss and won.
+WE BEAT THE GAME! :)
+total moves: 8
+Mario has 2 lives left. Mario has 0 coins.
+
